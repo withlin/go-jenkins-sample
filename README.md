@@ -1,1 +1,1 @@
-# go-jenkinsapi-test
+# go-jenkinsapi-sample
