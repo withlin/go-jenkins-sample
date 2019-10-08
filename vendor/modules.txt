@@ -1,0 +1,5 @@
+# github.com/bndr/gojenkins v0.2.1-0.20181125150310-de43c03cf849
+github.com/bndr/gojenkins
+# golang.org/x/net v0.0.0-20191007182048-72f939374954
+golang.org/x/net/html
+golang.org/x/net/html/atom
