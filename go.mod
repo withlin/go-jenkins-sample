@@ -1,4 +1,4 @@
-module github.com/withlin/go-jenkinsapi-sample
+module github.com/withlin/go-jenkins-sample
 
 go 1.13
 
